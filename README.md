@@ -1,18 +1,19 @@
-### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I'm [Justin Nguyen](https://github.com/JustinChasez) 👋
+# <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I'm [Justin Nguyen](https://github.com/JustinChasez) 👋
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JustinChasez/&title=Profile%20Views)
 
 Hi, I'm [Justin Nguyen](mailto:me@justinchasez.com), a passionate self-taught Full Stack Software Developer, based in Ho Chi Minh City, Vietnam.
 
 I started my career as a Software Developer in 2009. I self-learned Javascript / HTML / CSS and C# during my early years at the university, and started my very first project with customer who based in the UK. Since then, I self-learned other skills such as Database, SQL, Modular/Microservices Architecture, Cloud Computing, DevOps, CI/CD with Azure, Docker, Jenkins and keep improving day by day.
 
-- 🔭 I’m currently working as a full-time contractor at [HomeSphere LLC.](https://www.homesphere.com) under the title of Full Stack Software Engineer <img align="right" top="200" height="300" width="400" alt="GIF" src="https://github.com/JustinChasez/JustinChasez/blob/main/animation_500_coding.gif?raw=true">
+## What I do
+- 🔭 I’m currently working as a full-time contractor at [HomeSphere LLC.](https://www.homesphere.com) under the title of Full Stack Software Engineer <img align="right" top="100" height="300" width="400" src="https://github.com/JustinChasez/JustinChasez/blob/main/animation_500_coding.gif?raw=true">
 - 🌱 I’m currently learning Flutter, React Native and Native Mobile Development with iOS / Android
 - 💬 Ask me about anything [here](https://github.com/JustinChasez/JustinChasez/issues)
 <br>
 <br>
 <br>
 
-### Skills 👨‍💻
+## Skills 👨‍💻
 
 <img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
 <img align="left" alt="MySQL" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mysql.svg" />
