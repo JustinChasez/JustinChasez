@@ -5,6 +5,8 @@ Hi, I'm [Justin Nguyen](mailto:me@justinchasez.com), a passionate self-taught Fu
 
 I started my career as a Software Developer in 2009. I self-learned Javascript / HTML / CSS and C# during my early years at the university, and started my very first project with customer who based in the UK. Since then, I self-learned other skills such as Database, SQL, Modular/Microservices Architecture, Cloud Computing, DevOps, CI/CD with Azure, Docker, Jenkins and keep improving day by day.
 
+Check out my personal porfolio [here](https://portfolio.justinchasez.com/).
+
 ## What I do
 - 🔭 I’m currently working as a full-time contractor at [HomeSphere LLC.](https://www.homesphere.com) under the title of Full Stack Software Engineer <img align="right" top="100" height="300" width="400" src="https://github.com/JustinChasez/JustinChasez/blob/main/animation_500_coding.gif?raw=true">
 - 🌱 I’m currently learning Flutter, React Native and Native Mobile Development with iOS / Android
