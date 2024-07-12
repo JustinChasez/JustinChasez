@@ -16,6 +16,9 @@ I started my career as a Software Developer in 2009. I self-learned **Javascript
   <br/>
   <br/>
   <br/>
+  <br/>
+  <br/>
+  <br/>
 
 ## Skills 👨‍💻
 <img class="skill-item-logo" alt="Azure" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/microsoftazure.svg" />
