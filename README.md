@@ -1,5 +1,5 @@
 
-# <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Welcome to my personal blog 👋
+# <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Welcome to my Github Profile 👋
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JustinChasez/&title=Profile%20Views)
 
 Hey there, [Justin Nguyen](mailto:me@justinchasez.com)'s here. I'm a passionate self-taught Full Stack Software Developer, based in Ho Chi Minh City, Vietnam. I call myself **Vampire Coder** as I work most efficiently through night and usually sleep during daytime.
