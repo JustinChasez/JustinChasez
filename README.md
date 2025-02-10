@@ -2,7 +2,7 @@
 # <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Welcome to my Github Profile 👋
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JustinChasez/&title=Profile%20Views)
 
-Hey there, [Justin Nguyen](mailto:me@justinchasez.com)'s here. I'm a passionate self-taught Full Stack Software Developer, based in Ho Chi Minh City, Vietnam. I call myself **Vampire Coder** as I work most efficiently through night and usually sleep during daytime.
+Hey there, [Justin Nguyen](mailto:me@justinchasez.com)'s here. I'm a passionate self-taught Full Stack Software Engineer, based in Ho Chi Minh City, Vietnam. I call myself **Vampire Coder** as I work most efficiently through night and usually sleep during daytime.
 
 I started my career as a Software Developer in 2009. I self-learned **Javascript / HTML / CSS** and **C#** during my early years at the university, and started my very first project with customer who based in the UK. Since then, I self-learned other skills such as Database, SQL, Modular/Microservices Architecture, Cloud Computing, DevOps, CI/CD with Azure, Docker, Jenkins and keep improving day by day.
 
